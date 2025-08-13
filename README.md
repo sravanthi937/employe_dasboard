@@ -1,4 +1,4 @@
-# employe_dasboard
+# Employe_dasboard
 An interactive web-based dashboard built with Flask and MySQL to analyze and visualize employee performance, salaries, and hiring trends.
 
 📌 Features
@@ -39,4 +39,4 @@ Python 3.6 or higher
 MySQL installed and configured
 Browser (Chrome/Edge/Firefox)
 
-👩‍💻 Author: Raziya Mohammad
+👩‍💻 Author: SRAVANTHI AKULA
